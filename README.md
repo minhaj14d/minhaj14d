@@ -34,14 +34,14 @@ Here are the repositories and projects that currently represent my work. Links p
 
 | Project | Description (Recruiter-Focused) | Tech Stack | Links |
 |--------|----------------------------------|-----------|------|
-| **NSTU Research Society — Official Website** | Institutional website to improve communication, event visibility, and member engagement for a 300+ student research community | React, Tailwind, Vite | Repo: https://github.com/minhaj14d/nsturs2 |
-| **Personal Portfolio Website** | Professional single-page portfolio to highlight projects, leadership activities, and multidisciplinary capabilities | React, Vite, Tailwind | Repo: https://github.com/minhaj14d/portfolio-4 • Live: https://minhaj14d.github.io/portfolio-4 |
-| **Data Analytics / Bootcamp Projects** | Analytical reports and dashboards on real-world datasets focusing on insights, trends, and decision-support storytelling | Python, Power BI | See repositories: https://github.com/minhaj14d?tab=repositories&q=data |
+| **NSTU Research Society — Official Website** | Institutional website to improve communication, event visibility, and member engagement for a 300+ student research community | React, Tailwind, Vite | Live link: https://nsturs.org |
+| **Personal Portfolio Website** | Professional single-page portfolio to highlight projects, leadership activities, and multidisciplinary capabilities | React, Vite, Tailwind | Repo: https://github.com/minhaj14d/portfolio-4 • Live: https://minhaj14d.netlify.app |
+| **Data Analytics / Bootcamp Projects** | Analytical reports and dashboards on real-world datasets focusing on insights, trends, and decision-support storytelling | Python, Power BI | See Linkedin |
 | **Academic LaTeX Workflows** | Reusable LaTeX templates and workflows for academic writing and publication-ready documentation | LaTeX | Repo: https://github.com/minhaj14d/latex-works |
-| **AppStore Platform (project demo)** | Modular app management workflow with protected routes, reviews, and user interaction logic | React, Tailwind, Firebase | Repo: https://github.com/minhaj14d/nsturs2 (see project folder) |
+| **AppStore Platform (project demo)** | Modular app management workflow with protected routes, reviews, and user interaction logic | React, Tailwind, Firebase | Repo on github |
 | **Bangladesh 2.0** | Civic information website communicating Smart Bangladesh vision with accessible content structure | HTML, CSS | Repo: https://github.com/minhaj14d/ph01 • Live: https://minhaj14d.github.io/ph01 |
 
-> Note: I have several small/learning projects (ph02, ph03, ph05, ph07, coverpage) available in my repositories — links are below in the Repositories section.
+> Note: I have several small/learning projects available in my repositories — links are below in the Repositories section.
 
 ---
 
@@ -51,17 +51,6 @@ Here are the repositories and projects that currently represent my work. Links p
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaj14d&theme=react-dark&hide_border=true)
 
 ---
-
-### 🌐 Repositories (selected)
-- NSTU Research Society (official site) — https://github.com/minhaj14d/nsturs2
-- Portfolio — https://github.com/minhaj14d/portfolio-4
-- PH A03 - Nature's Platter — https://github.com/minhaj14d/ph03
-- PH A02 - Kids School — https://github.com/minhaj14d/ph02
-- PH A01 - Bangladesh 2.0 — https://github.com/minhaj14d/ph01
-- PH A05 - DevBoard — https://github.com/minhaj14d/ph05
-- PH A07 - Knowledge cafe — https://github.com/minhaj14d/ph07
-- Coverpage (MYP1) — https://github.com/minhaj14d/coverpage
-- LaTeX Projects — https://github.com/minhaj14d/latex-works
 
 For the full list of repositories (public and any private repos included in your GitHub stats) visit: https://github.com/minhaj14d?tab=repositories
 
