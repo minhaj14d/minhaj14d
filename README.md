@@ -1,100 +1,86 @@
-# Minhajul Abedin  
-### Applied Mathematics undergraduate building production-grade data and product systems.
+# Minhajul Abedin
+### Applied Mathematics undergraduate building decision-focused data and product systems
 
-I design and ship end-to-end software that turns fragmented data into decisions: **data ingestion → analytics logic → API layer → user-facing product**.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Turning+data+into+insights+📊;Building+interactive+web+experiences+🌐;Designing+with+logic+and+creativity+🎨;AI-assisted+workflows+⚙️)](https://github.com/minhaj14d)
+I build software that turns fragmented information into usable decisions: **data pipeline → analytics logic → API/backend → product UI**.
 
 ---
 
-## What I Do
+## What I Build
 
-- Build decision products in education and fintech-adjacent domains  
-- Own full-stack execution from model/logic design to frontend delivery  
-- Convert ambiguous problems into scoped, measurable product systems  
+- **Data products** for education and finance-adjacent use cases  
+- **Frontend interfaces** for decision workflows, not just static pages  
+- **Automation-first systems** that reduce manual analysis and repetitive operations  
+
+---
+
+## Featured Work
+
+### **BD Bank Compare** — [Repo](https://github.com/minhaj14d/whatthebank)
+**Problem:** Banking comparisons are scattered and hard to evaluate consistently.  
+**Built:** FastAPI + React system with bank registry, filter/search APIs, comparison/ranking logic, and scraper-ready architecture.  
+**Why it matters:** Turns fragmented financial info into a structured decision workflow.
+
+### **University Performance Analyzer** — [Repo](https://github.com/minhaj14d/university-performance-analyzer)
+**Problem:** Academic performance analysis is spreadsheet-heavy and slow to operationalize.  
+**Built:** Streamlit analytics app with GPA engine, cohort/subject analysis, dashboards, and PDF reporting.  
+**Why it matters:** Replaces manual reporting with repeatable, faster academic insights.
+
+### **Assignment Cover Generator** — [Repo](https://github.com/minhaj14d/cover2)
+**Problem:** Students lose time on repetitive formatting tasks.  
+**Built:** Template-based Streamlit PDF generator with validation, testing, and containerized setup.  
+**Why it matters:** Productizes a recurring workflow into a reliable self-service tool.
+
+### **NSTU Research Society Platform** — [Repo](https://github.com/minhaj14d/nsturs)
+**Problem:** Research communities need a central digital layer for communication and visibility.  
+**Built:** Next.js-based web platform for institutional presence and outreach.  
+**Why it matters:** Improves discoverability and coordination for a cross-department research community.
+
+---
+
+## Leadership
+
+- President, **NSTU Research Society**  
+- Led and coordinated initiatives across a **300+ member** student research community  
+- Bridge research, stakeholder needs, and technical execution
+
+---
+
+## Core Stack
+
+**Python · TypeScript · SQL · FastAPI · React · Next.js · Streamlit · Tailwind · Docker · GitHub Actions**
 
 ---
 
 ## Current Focus
 
-- **Data Product Engineering** (analytics pipelines, ranking/scoring systems)  
-- **Frontend for Decision Tools** (React/Next.js interfaces for operational use)  
-- **Applied AI Automation** (structured extraction and workflow acceleration)
+- Data Product Engineering  
+- Frontend for analytics/decision tools  
+- AI-assisted workflow automation  
 
 ---
 
-## Stack (Signal Only)
-
-**Python, TypeScript, SQL, FastAPI, React, Next.js, Streamlit, Docker, CI/CD**
-
----
-
-## Selected Projects
-
-### [BD Bank Compare (`whatthebank`)](https://github.com/minhaj14d/whatthebank)
-**Problem:** Bank comparison in Bangladesh is fragmented and hard to evaluate consistently.  
-**Built:** FastAPI + React comparison platform with config-driven institution registry, filtering/search APIs, ranking logic, and scraper-ready architecture.  
-**Impact:** Converts scattered financial information into a structured decision workflow; establishes a scalable base for real-time comparative finance products.
-
----
-
-### [University Performance Analyzer](https://github.com/minhaj14d/university-performance-analyzer)
-**Problem:** Academic performance analysis is manual, slow, and difficult to operationalize.  
-**Built:** Streamlit analytics app with configurable GPA engine, cohort/subject/department analytics, interactive dashboards, and PDF reporting.  
-**Impact:** Replaces spreadsheet-heavy analysis with repeatable reporting and faster academic decision support.
-
----
-
-### [Assignment Cover Generator (`cover2`)](https://github.com/minhaj14d/cover2)
-**Problem:** Students repeatedly spend time on low-value formatting tasks.  
-**Built:** Template-driven Streamlit PDF generation system with validation, modular architecture, testing, and containerized deployment.  
-**Impact:** Productizes a recurring workflow into a reliable self-service tool; reduces repetitive operational overhead.
-
----
-
-### [Research Society Platform (`nsturs`)](https://github.com/minhaj14d/nsturs)
-**Problem:** Student research communities often lack a cohesive digital operating layer.  
-**Built:** Next.js-based organization platform with modern frontend architecture and content delivery structure.  
-**Impact:** Improves visibility and coordination for research initiatives through a centralized web presence.
-
----
-
-## Leadership & Product Ownership
-
-- Ship tools tied to real institutional workflows, not tutorial outputs  
-- Bridge research context, user needs, and engineering execution  
-- Operate across strategy, implementation, and delivery with strong systems thinking  
-
----
-
-## Build Next (to Reach Top-Tier Candidate Signal)
+## Building Next (Flagship Roadmap)
 
 1. **University Outcomes Intelligence Platform**  
-   Multi-tenant product with retention risk scoring, intervention tracking, and role-based dashboards.
+   Retention-risk scoring, intervention tracking, and role-based analytics.
 
-2. **Financial Transparency API for Bangladesh**  
-   Versioned ETL + benchmark engine + public API for institution-level fee/rate/service comparisons.
+2. **Bangladesh Financial Transparency API**  
+   Versioned ETL + benchmarking engine + public developer API.
 
-3. **Experimentation Layer for Student Products**  
-   Feature flags, event instrumentation, and A/B testing with causal-style decision reporting.
-
----
-
-## Profile Curation
-
-**Highlight:** `whatthebank`, `university-performance-analyzer`, `cover2`, `nsturs`  
-**Deprioritize:** coursework/bootcamp-style repos (`ph*`, minimal/placeholder repos, undifferentiated forks)
+3. **Experimentation Infrastructure for Student Products**  
+   Feature flags, event instrumentation, and A/B decision reporting.
+   
+4. **Avroid Keyboard 2.0**
+   Upgrade to avro bangla phonetic typing experience on Android.
 
 ---
 
 ## Connect
 
+- LinkedIn: [linkedin.com/in/minhaj14d](https://linkedin.com/in/minhaj14d)  
 - GitHub: [github.com/minhaj14d](https://github.com/minhaj14d)  
-- LinkedIn: *(add link)*  
-- Email: *(add contact)*
+- Email: [minhaj14d@gmail.com](mailto:minhaj14d@gmail.com)
 
 ---
 
-### Positioning
-
-I build **decision-grade products** by combining mathematical rigor, data systems, and product engineering to deliver software that changes how people decide and act.
+I build **decision-grade products** by combining math, engineering, and product thinking to deliver software that improves how people decide and act.
