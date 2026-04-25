@@ -1,74 +1,100 @@
-<!-- 🌐 GitHub Profile — Minhajul Abedin -->
+# Minhajul Abedin  
+### Applied Mathematics undergraduate building production-grade data and product systems.
 
-# 👋 Hi, I'm Minhajul Abedin
-
-🎓 Undergraduate in Applied Mathematics — NSTU  
-💻 Data Science Enthusiast | Frontend Developer | Creative Technologist  
-🧠 Tech + Design Thinker | Organizer | Public Speaker
+I design and ship end-to-end software that turns fragmented data into decisions: **data ingestion → analytics logic → API layer → user-facing product**.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Turning+data+into+insights+📊;Building+interactive+web+experiences+🌐;Designing+with+logic+and+creativity+🎨;AI-assisted+workflows+⚙️)](https://github.com/minhaj14d)
 
 ---
 
-### 🚀 About Me
-- 🔍 Interested in **data science, AI-assisted workflows, and intelligent systems**
-- 🧮 Applying **mathematical modeling** to real-world problem solving
-- 🧠 Working with **React, Tailwind, Python, and data visualization tools**
-- 🎨 Teach **graphic design** (Adobe Suite + Figma)
-- 🧭 **President — NSTU Research Society (NSTURS)**  
-  Leading 300+ members across 33 departments and interdisciplinary research initiatives
-- ⚙️ Exploring how **automation & analytics** improve productivity in learning and research
+## What I Do
+
+- Build decision products in education and fintech-adjacent domains  
+- Own full-stack execution from model/logic design to frontend delivery  
+- Convert ambiguous problems into scoped, measurable product systems  
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** Python | JavaScript | C | HTML | CSS | SQL  
-**Frameworks & Tools:** React | Tailwind CSS | Vite | Firebase | Power BI | Git  
-**Design:** Illustrator | Photoshop | Figma | Canva  
-**Focus Areas:** Data Visualization • AI Workflows • Research Analytics
+## Current Focus
+
+- **Data Product Engineering** (analytics pipelines, ranking/scoring systems)  
+- **Frontend for Decision Tools** (React/Next.js interfaces for operational use)  
+- **Applied AI Automation** (structured extraction and workflow acceleration)
 
 ---
 
-### 🧠 Featured Projects
-Here are the repositories and projects that currently represent my work. Links point to the GitHub repository; if a project has a live demo (GitHub Pages) it is noted.
+## Stack (Signal Only)
 
-| Project | Description (Recruiter-Focused) | Tech Stack | Links |
-|--------|----------------------------------|-----------|------|
-| **NSTU Research Society — Official Website** | Institutional website to improve communication, event visibility, and member engagement for a 300+ student research community | React, Tailwind, Vite | Live link: https://nsturs.org |
-| **Personal Portfolio Website** | Professional single-page portfolio to highlight projects, leadership activities, and multidisciplinary capabilities | React, Vite, Tailwind | Repo: https://github.com/minhaj14d/portfolio-4 • Live: https://minhaj14d.netlify.app |
-| **Data Analytics / Bootcamp Projects** | Analytical reports and dashboards on real-world datasets focusing on insights, trends, and decision-support storytelling | Python, Power BI | See Linkedin |
-| **Academic LaTeX Workflows** | Reusable LaTeX templates and workflows for academic writing and publication-ready documentation | LaTeX | Repo: https://github.com/minhaj14d/latex-works |
-| **AppStore Platform (project demo)** | Modular app management workflow with protected routes, reviews, and user interaction logic | React, Tailwind, Firebase | Repo on github |
-| **Bangladesh 2.0** | Civic information website communicating Smart Bangladesh vision with accessible content structure | HTML, CSS | Repo: https://github.com/minhaj14d/ph01 • Live: https://minhaj14d.github.io/ph01 |
-
-> Note: I have several small/learning projects available in my repositories — links are below in the Repositories section.
+**Python, TypeScript, SQL, FastAPI, React, Next.js, Streamlit, Docker, CI/CD**
 
 ---
 
-### ⚙️ Activity & Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhaj14d&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj14d&layout=compact&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaj14d&theme=react-dark&hide_border=true)
+## Selected Projects
+
+### [BD Bank Compare (`whatthebank`)](https://github.com/minhaj14d/whatthebank)
+**Problem:** Bank comparison in Bangladesh is fragmented and hard to evaluate consistently.  
+**Built:** FastAPI + React comparison platform with config-driven institution registry, filtering/search APIs, ranking logic, and scraper-ready architecture.  
+**Impact:** Converts scattered financial information into a structured decision workflow; establishes a scalable base for real-time comparative finance products.
 
 ---
 
-For the full list of repositories (public and any private repos included in your GitHub stats) visit: https://github.com/minhaj14d?tab=repositories
+### [University Performance Analyzer](https://github.com/minhaj14d/university-performance-analyzer)
+**Problem:** Academic performance analysis is manual, slow, and difficult to operationalize.  
+**Built:** Streamlit analytics app with configurable GPA engine, cohort/subject/department analytics, interactive dashboards, and PDF reporting.  
+**Impact:** Replaces spreadsheet-heavy analysis with repeatable reporting and faster academic decision support.
 
 ---
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/minhaj14d)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:minhaj14d@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white)](https://minhaj14d.github.io)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/)
+### [Assignment Cover Generator (`cover2`)](https://github.com/minhaj14d/cover2)
+**Problem:** Students repeatedly spend time on low-value formatting tasks.  
+**Built:** Template-driven Streamlit PDF generation system with validation, modular architecture, testing, and containerized deployment.  
+**Impact:** Productizes a recurring workflow into a reliable self-service tool; reduces repetitive operational overhead.
 
 ---
 
-> “Blending logic, design, and data to create meaningful outcomes.”
+### [Research Society Platform (`nsturs`)](https://github.com/minhaj14d/nsturs)
+**Problem:** Student research communities often lack a cohesive digital operating layer.  
+**Built:** Next.js-based organization platform with modern frontend architecture and content delivery structure.  
+**Impact:** Improves visibility and coordination for research initiatives through a centralized web presence.
 
 ---
 
-### 🧾 For Visitors
-⭐ Star projects you find useful  
-📬 Open to **collaboration, research initiatives, and analytics projects**
+## Leadership & Product Ownership
+
+- Ship tools tied to real institutional workflows, not tutorial outputs  
+- Bridge research context, user needs, and engineering execution  
+- Operate across strategy, implementation, and delivery with strong systems thinking  
+
+---
+
+## Build Next (to Reach Top-Tier Candidate Signal)
+
+1. **University Outcomes Intelligence Platform**  
+   Multi-tenant product with retention risk scoring, intervention tracking, and role-based dashboards.
+
+2. **Financial Transparency API for Bangladesh**  
+   Versioned ETL + benchmark engine + public API for institution-level fee/rate/service comparisons.
+
+3. **Experimentation Layer for Student Products**  
+   Feature flags, event instrumentation, and A/B testing with causal-style decision reporting.
+
+---
+
+## Profile Curation
+
+**Highlight:** `whatthebank`, `university-performance-analyzer`, `cover2`, `nsturs`  
+**Deprioritize:** coursework/bootcamp-style repos (`ph*`, minimal/placeholder repos, undifferentiated forks)
+
+---
+
+## Connect
+
+- GitHub: [github.com/minhaj14d](https://github.com/minhaj14d)  
+- LinkedIn: *(add link)*  
+- Email: *(add contact)*
+
+---
+
+### Positioning
+
+I build **decision-grade products** by combining mathematical rigor, data systems, and product engineering to deliver software that changes how people decide and act.
