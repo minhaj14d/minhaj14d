@@ -1,10 +1,14 @@
 <h1 align="center">👋 Minhajul Abedin</h1>
-<h3 align="center">Applied Mathematics @ NSTU · Research systems & local AI for Bangladesh</h3>
-<h4 align="center"><a href="https://minhaj14d.netlify.app">My Portfolio</a></h4>
+<h3 align="center">Applied Mathematics @ NSTU · Software · Data · AI · Research systems</h3>
+<h4 align="center">
+  President, <a href="https://nsturs.org">NSTU Research Society</a> (500+ members) ·
+  <a href="https://nsturs.org">nsturs.org</a> ·
+  <a href="https://minhaj14d.netlify.app">My Portfolio Website</a>
+</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=780&lines=Research+pipelines+%E2%86%92+deployable+products;Bangladesh+data%2C+education+%26+civic+tools;Offline+AI+%26+Bangla+input+systems;Math+%2B+engineering+%2B+product+thinking" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=820&lines=Production+web+apps+%26+APIs;Data+pipelines+%26+research+analytics;Local+AI+%26+automation+tools;Bangladesh-focused+engineering+%2B+math" alt="Typing intro" />
   </a>
 </p>
 
@@ -16,90 +20,94 @@
     <img src="https://img.shields.io/github/followers/minhaj14d?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba&label=Follow" alt="GitHub followers" />
   </a>
   <a href="https://minhaj14d.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-minhaj14d.netlify.app-8F0D0D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio site" />
+    <img src="https://img.shields.io/badge/Portfolio-minhaj14d.netlify.app-8F0D0D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://nsturs.org">
-    <img src="https://img.shields.io/badge/Live-nsturs.org-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="NSTURS site" />
+    <img src="https://img.shields.io/badge/Live-nsturs.org-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="NSTURS" />
   </a>
 </p>
 
 <p align="center">
-  I turn messy real-world problems—university strategy, student AI adoption, Bangla typing, file chaos—into <b>reproducible pipelines, shipped products, and publishable research</b>.
+  Final-year <b>B.Sc. Applied Mathematics</b> student building <b>production software, data systems, and applied AI</b> for Bangladesh — from live org platforms and fintech APIs to survey ML, local semantic tools, and publishable research.
 </p>
 
 ---
 
 ## 🔭 Now
 
-- 🔬 **Research:** 3 Zero composite index · fractional dengue modeling · XAI stability under distribution shift · student AI survey
-- 🏛️ **Leadership:** NSTU Research Society · Ranking & Strategic Development Cell intern
-- 🛠️ **Building:** offline local AI tools · Bangla IME · BD civic/fintech dashboards · research web platforms
-- 🤝 **Open to:** Research Assistant · Junior Data Analyst · AI/ML Intern · Junior Python Developer roles
+- 🏛️ **Leadership:** President (technical lead), NSTU Research Society · intern, NSTU Ranking & Strategic Development Cell
+- 🛠️ **Shipping:** [nsturs.org](https://nsturs.org) · [BD Bank Compare](https://github.com/minhaj14d/bdbankcompare) · [SortingHat](https://github.com/minhaj14d/sortinghat) · [bookmrkd](https://github.com/minhaj14d/bookmrkd)
+- 🔬 **Research:** 3 Zero composite index (abstract Dec 2025) · student AI adoption survey (*n* = 395) · XAI stability · fractional dengue modeling
+- 🤝 **Open to:** Tech trainee / software & IT · Junior Data & Research Analyst · AI Engineer Trainee · Research Assistant · Junior Python Developer
 
 ---
 
-## ⭐ Featured Work
+## ⭐ Featured — Public Repositories
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ [NSTU Research Society Platform](https://github.com/minhaj14d/nsturs2)
-**Live:** [nsturs.org](https://nsturs.org)
-
-Production React site for a 500+ member research org—blog, events, members, Supabase, Netlify, SEO.
-
-`React` · `Vite` · `Supabase` · `Netlify`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎩 [SortingHat](https://github.com/minhaj14d/sortinghat)
-**Offline AI file organizer (Windows)**
+**Offline AI file organizer**
 
-Rules + sentence-transformer semantic sorting, dry-run, undo logs—no API keys, no cloud.
+Rule-based + semantic classification, dry-run, undo logs — runs locally after model cache.
 
-`Python` · `PySide6` · `Local ML`
+`Python` · `PySide6` · `sentence-transformers`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [BD Bank Compare](https://github.com/minhaj14d/bdbankcompare)
+**Bangladesh bank / MFS comparison**
+
+FastAPI backend + React dashboard over structured institution reference data.
+
+`FastAPI` · `React` · `Vite` · `SQL`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📊 [Bangladesh 3 Zero Index](https://github.com/minhaj14d/3zero)
-
-Composite index (poverty, youth unemployment, CO₂) from World Bank + OWID data; conference abstract Dec 2025.
-
-`Python` · `pandas` · `LaTeX` · `Research`
-
-</td>
-<td width="50%" valign="top">
-
-### 🦟 [Fractional Dengue SIR-SI Model](https://github.com/minhaj14d/dengue2)
-
-Caputo fractional epidemic solver, parameter sweeps, reproducible figure pipelines.
-
-`NumPy` · `scipy` · `Scientific computing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 [BD Bank Compare](https://github.com/minhaj14d/whatthebank)
-
-FastAPI + React system for structured bank/MFS comparison, filters, and scraper-ready architecture.
-
-`FastAPI` · `React` · `Pydantic`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🔖 [bookmrkd](https://github.com/minhaj14d/bookmrkd)
+**Semantic bookmark organizer (Chrome)**
 
-Semantic bookmark organizer for Chromium—dedupe, categorize, export; offline-first with optional Gemini.
+Dedupe, categorize, export — offline-first with optional Gemini integration.
 
 `JavaScript` · `Chrome Extension`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [University Performance Analyzer](https://github.com/minhaj14d/university-performance-analyzer)
+**GPA analytics & reporting**
+
+Streamlit app for cohort trends, department comparison, and PDF-style outputs.
+
+`Python` · `Streamlit` · `pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎞️ [dpAnimator](https://github.com/minhaj14d/dpanimator)
+**Browser GIF avatar studio**
+
+Client-side GIF generation with triadic color controls (`gifenc`).
+
+`React` · `TypeScript` · `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [notally2md](https://github.com/minhaj14d/notally2md)
+**Notally → Markdown converter**
+
+Small Python utility for turning Notally backups into markdown files.
+
+`Python` · `CLI`
 
 </td>
 </tr>
@@ -107,63 +115,84 @@ Semantic bookmark organizer for Chromium—dedupe, categorize, export; offline-f
 
 ---
 
-## 📚 Research & Analytics
+## 🌐 Live Products
 
-| Project | Focus | Stack |
-|--------|--------|--------|
-| [AI Tool Usage Survey](https://github.com/minhaj14d/nstursaisurvey) | TAM-framework study, 400 students in Noakhali | Python · sklearn · LaTeX |
-| [XAI Stability Research](https://github.com/minhaj14d/researchonthego) | SHAP/LIME stability under noise & label corruption | XGBoost · Explainability |
-| [University Performance Analyzer](https://github.com/minhaj14d/university-performance-analyzer) | GPA engine, cohort dashboards, PDF reporting | Streamlit · Python |
-| [Assignment Cover Generator](https://github.com/minhaj14d/cover2) | Template-based PDF workflow for students | Streamlit · Docker |
+| Product | Link | Notes |
+|--------|------|--------|
+| **NSTU Research Society platform** | [nsturs.org](https://nsturs.org) | React · Supabase · Netlify — in-house org app I maintain as society president |
+| **Academic portfolio** | [minhaj14d.netlify.app](https://minhaj14d.netlify.app) | Research case studies, flagship project summaries, contact |
+
+<sub>Some org/research repositories are private; live demos and portfolio pages are the best public entry points.</sub>
 
 ---
 
-## 🧩 More Projects
+## 📚 Research & Analytics
+
+| Focus | Summary | Public code |
+|--------|---------|-------------|
+| **AI tool adoption survey** | TAM-framework study, *n* = 395 students in Noakhali; sklearn pipeline · manuscript in progress | Portfolio |
+| **Bangladesh 3 Zero index** | Composite index (poverty, youth unemployment, CO₂) from World Bank + OWID; abstract Dec 2025 | Portfolio |
+| **XAI stability** | SHAP/LIME robustness under noise & label corruption | Portfolio |
+| **Fractional dengue model** | Caputo SIR-SI solver · reproducible figure pipelines | Portfolio |
+
+---
+
+## 🧩 More Public Projects
 
 | | |
 |---|---|
-| 🌐 [**portfolio-4**](https://github.com/minhaj14d/portfolio-4) | Primary academic-tech portfolio ([minhaj14d.netlify.app](https://minhaj14d.netlify.app)) |
-| 🎞️ [**dpAnimator**](https://github.com/minhaj14d/dpanimator) | Browser GIF avatar generator (`gifenc`, triadic color ring) |
-| 🧾 [**latex-works**](https://github.com/minhaj14d/latex-works) | LaTeX templates & technical writing workflows |
-| ⌨️ [**Bangla IME / fcitx5-android**](https://github.com/minhaj14d/fcitx5-android) | Avro phonetic input—Kotlin engine, layouts, fcitx plugin path |
-| 🌍 [**Bangladesh 2.0**](https://github.com/minhaj14d/ph01) | Early civic-information frontend build |
+| 📄 [**coverpage**](https://github.com/minhaj14d/coverpage) | NSTU assignment cover generator |
+| 🌳 [**familytree**](https://github.com/minhaj14d/familytree) | Interactive hierarchy editor · CSV/SQL export |
+| 📚 [**latex-works**](https://github.com/minhaj14d/latex-works) | LaTeX templates & writing workflows |
+| 🤖 [**tgaibot**](https://github.com/minhaj14d/tgaibot) | Telegram bot + FastAPI OpenRouter proxy |
+
+---
+
+## 🧭 Leadership & Training
+
+**Leadership**
+- **President (Technical Lead)**, NSTU Research Society — 500+ members · owner of **nsturs.org**
+- **Intern**, NSTU Ranking & Strategic Development Cell — institutional data · SDG indicators · strategic reports
+- Core Organizer, NSTURS Research Proposal Contest 2.0 (2026) · Tab Director, NSTU National Science Fest (2024)
+
+**Selected training**
+- Web Development Bootcamp — Programming Hero (2024)
+- Legacy JavaScript Algorithms and Data Structures V7 — freeCodeCamp (2023)
+- C++ Fundamentals and Problem Solving Bootcamp — Phitron (2024)
+- Data Analysis Career Bootcamp — HDNB (2025)
+- Basic STATA for Data Analysis — Bangladesh Research Society (2024)
 
 ---
 
 <details>
 <summary><h2>🛠️ Stack & Tools</h2></summary>
 
-<h3>Programming & research</h3>
+<h3>Core</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/STATA-1A5F8B?style=flat&logoColor=white" alt="STATA" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
-<h3>Web, APIs & data products</h3>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3>Systems & delivery</h3>
+<h3>Data, research & AI</h3>
 <p>
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/STATA-1A5F8B?style=flat&logoColor=white" alt="STATA" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<h3>Web & delivery</h3>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
@@ -171,12 +200,14 @@ Semantic bookmark organizer for Chromium—dedupe, categorize, export; offline-f
 
 ---
 
-## 🚀 Building Next
+## 📌 Suggested GitHub Pins (public)
 
-1. **University Outcomes Intelligence** — retention-risk signals, intervention tracking, role-based analytics  
-2. **Bangladesh Financial Transparency API** — versioned ETL + benchmarking + public developer API  
-3. **Bangla Avro Keyboard 2.0** — phonetic IME with stronger UX and release-ready Android build  
-4. **Research reproducibility kit** — open template from daily research-notes workflow  
+1. [sortinghat](https://github.com/minhaj14d/sortinghat)
+2. [bdbankcompare](https://github.com/minhaj14d/bdbankcompare)
+3. [bookmrkd](https://github.com/minhaj14d/bookmrkd)
+4. [university-performance-analyzer](https://github.com/minhaj14d/university-performance-analyzer)
+5. [dpanimator](https://github.com/minhaj14d/dpanimator)
+6. [notally2md](https://github.com/minhaj14d/notally2md)
 
 ---
 
@@ -204,7 +235,7 @@ Semantic bookmark organizer for Chromium—dedupe, categorize, export; offline-f
   </a>
 </p>
 
-<sub><b>Note:</b> Top languages reflect public repository composition and include private activity when enabled—they are not a full skills ranking.</sub>
+<sub><b>Note:</b> Stats may include private repos. Top languages are not a full skills ranking.</sub>
 
 </details>
 
@@ -228,5 +259,5 @@ Semantic bookmark organizer for Chromium—dedupe, categorize, export; offline-f
 </p>
 
 <p align="center">
-  <i>Interdisciplinary builder across data, research, frontend, and systems—focused on Bangladesh-shaped outcomes.</i>
+  <i>Software · data · applied AI · research — shipped products and pipelines for Bangladesh, not tutorial clones.</i>
 </p>
