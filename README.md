@@ -240,24 +240,3 @@ Small Python utility for turning Notally backups into markdown files.
 </details>
 
 ---
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/minhaj14d">
-    <img src="https://img.shields.io/badge/LinkedIn-minhaj14d-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/minhaj14d">
-    <img src="https://img.shields.io/badge/GitHub-minhaj14d-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:minhaj14d@gmail.com">
-    <img src="https://img.shields.io/badge/Email-minhaj14d%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://minhaj14d.netlify.app">
-    <img src="https://img.shields.io/badge/Website-minhaj14d.netlify.app-8F0D0D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Software · data · applied AI · research — shipped products and pipelines for Bangladesh, not tutorial clones.</i>
-</p>
